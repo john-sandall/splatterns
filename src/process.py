@@ -3,7 +3,9 @@ from pathlib import Path
 import numpy as np
 from PIL import Image, ImageEnhance
 
-jpg_files = [str(p) for p in Path('./images/raw/drops').glob('*.jpg')]
+splattern_types = ['castoff', 'drops', 'projected', 'spatters']
+
+jpg_files = [str(p) for splattern in splattern_types for p in Path(f'./images/raw/{splattern}/').glob('*.jpg')]
 
 for filename in jpg_files:
     print(f'Processing file {filename}')
