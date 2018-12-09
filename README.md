@@ -16,3 +16,7 @@
 - [Gordon Blackadder](https://github.com/asos-gordon)
 - [John Sandall](https://twitter.com/john_sandall)
 - [James Curtis](https://twitter.com/jamescurtis29)
+
+---
+
+![BPA](http://narratively.com/wp-content/uploads/2014/02/a2EngPwQqaHRfmmwtWgt_benj_spot2.jpg)
